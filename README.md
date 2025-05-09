@@ -1,1 +1,1 @@
-# car_race
+# kotlin-racingcar-precourse
